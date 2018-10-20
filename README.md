@@ -1,6 +1,10 @@
 # dictionary-for-devs
 Dictionary of words that are assumed knowedge in the dev community but may be unfamiliar to new, or even seasoned, developers.
 
+Artificial intelligence
+Web development
+
+
 ## Resources
 - How to do your first pull request: https://github.com/jessmear/dictionary-for-devs/blob/master/pull-request-basics.md
 - Markdown cheat sheet: https://www.makeuseof.com/tag/printable-markdown-cheat-sheet/
